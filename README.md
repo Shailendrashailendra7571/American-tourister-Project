@@ -28,9 +28,3 @@ shailendrashailendra7571@gmail.com.
 Shailendra_rajput_420
 
 Thank you for choosing the American Tourister Online Backpack Store. We hope you enjoy your shopping experience!
-HTML, CSS (only front-end has the website till now)
-## Contributing:
-We welcome contributions from the open-source community to enhance the functionality and features of our website. If you would like to contribute, please follow our guidelines outlined in the CONTRIBUTING.md file.
-## License:
-The American Tourister Online Backpack Store is licensed under the MIT License. Please review the LICENSE file for more details.
-## Contact:
